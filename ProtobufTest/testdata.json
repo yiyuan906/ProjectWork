@@ -1,0 +1,1 @@
+{"people": [{"name": "person one", "id": 1}, {"name": "person two", "id": 2, "email": "123@test.com", "phones": [{"number": "123", "type": "MOBILE"}, {"number": "2"}, {"number": "12"}, {"number": "213", "type": "HOME"}, {"number": "234", "type": "WORK"}]}]}
